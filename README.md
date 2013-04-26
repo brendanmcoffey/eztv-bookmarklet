@@ -15,3 +15,13 @@ javascript:(function() { var s = document.createElement('script'); s.type = 'tex
 ```
 
 I usually use this bookmarklet on the [showlist page](http://eztv.it/showlist/), though it also works well from the EZTV homepage.
+
+## Example ##
+
+For an example of how this tool works, highlight the following block of text and drag it to your browser's bookmark bar (verified working in Chrome):
+
+```javascript
+javascript:(function() { var s = document.createElement('script'); s.type = 'text/javascript'; s.src = 'http://polluxtechnology.com/ez_bookmarklet.js'; document.body.appendChild(s); })();
+```
+
+Then visit EZTV's [showlist page](http://eztv.it/showlist/) and click on your new bookmarklet to see the sorting magic!
