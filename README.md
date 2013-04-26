@@ -1,7 +1,7 @@
 EZTV Sorter Bookmarklet
 ================
 
-Sorter bookmarklet for EZTV that sorts the list into specified rows of TV shows.
+Sorter bookmarklet for EZTV that sorts the list into specified rows of TV shows. EZTV is my go-to for checking the status of the TV shows that I regularly watch, so this works really well to cut down that list of thousands of shows, and see a list of 10 shows and if they are airing or on break.
 
 How I use this right now (I will make it simpler, but for now it is not too crazy hard):
 
